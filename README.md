@@ -5,7 +5,7 @@ this project control leds  , write on Arduino LCD  , get data from potentionmete
 We control these processes by sending stream of data by setting on action on java GUI , then we recieve it on arduino serial and begin to deal with it and setting on action we need to do on arduino pins.
 
 
-#Components
+# Components
   - Arduino Uno Board.
   - 9mm Cable. 
   - Jumber Wires.
